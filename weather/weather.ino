@@ -22,7 +22,7 @@
   
 #include <M5EPD.h>
 #include "Config.h"
-#include "ConfigOverride.h" // Remove this line
+// #include "ConfigOverride.h" // Remove this line
 #include "Data.h"
 #include "Display.h"
 #include "Battery.h"

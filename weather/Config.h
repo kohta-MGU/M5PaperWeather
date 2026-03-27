@@ -32,5 +32,5 @@
 #define OPENWEATHER_PORT 80
 #define OPENWEATHER_API  "your openweathermap api key"
 
-#define WIFI_SSID        "your wifi ssid"
-#define WIFI_PW          "your wifi password"
+#define WIFI_SSID        "TPLDM9P"
+#define WIFI_PW          "k610y123"
